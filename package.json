@@ -1,0 +1,11 @@
+{
+  "name": "liftoff-demo",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "queue": "^6.0.2",
+    "twilio": "^3.66.1"
+  }
+}
